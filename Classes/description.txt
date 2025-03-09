@@ -1,0 +1,37 @@
+Who stole my bananas?!
+
+I have barrels, and I'm not affraid to use them!
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Goaty Kong: You can throw rolling barrels.
+- Goaty Kong Theme: For those who like Jungle music.
+
+[b]COMMANDS[/b]
+- [b][R]:[/b] Throw a barrel.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b][Y]:[/b] Throw a barrel.
+
+[b]CHARACTERISTICS[/b]
+- You are a [strike]gorilla[/strike] big brown ripped goat.
+- As long as the barrel is on your back it won't break.
+- When you throw a barrel it will roll until something slow it down too much or break it.
+
+[b]EASTER EGGS[/b]
+- [spoiler]You have a chance to get an explosive barrel instead of the regular one.[/spoiler]
+- [spoiler]Normal barrels can randomly drop bananas when broken. (edible in GoatZ)[/spoiler]
+- [spoiler]When an explosive barrel is on your back, you can use it as a rocket if you are ragdoll and hold the secret key ;)[/spoiler]
+- [spoiler]Hint for the secret key:[/spoiler][spoiler]Using this key close to explosive items is usually a bad idea.[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- Barrels can sometimes stop rolling for no visible reason.
+- Breaking a lot of barrels at the same time will cause lag. This will fix automatically after a few seconds.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]That was a nice little mod that was suggested on the request thread, or maybe a combination of multiple suggestions :)
+The central idea was the rolling barrels, so that's what I started making first. I didn't know if adding a constant spin to an object would be enough to keep it rolling, but it turned out that it was working just fine ^^ I had to make a few adjustments to actually stop the barrels at some point or they would just roll forever X)
+Then I had another idea in mind since I added that mod to the planned list and it was to add an easter egg to have a rocket-powered barrel on your back that you can use the same way as the steerable jetpack ;) That's why I added explosives barrels too, so that it makes a bit more sense :p So I took inspiration from both my own mod and the Steerable Jetpack mod made by botman to get something that was flying and not too hard to control ^^
+Finally, I was writing the mod description talking about bananas when I remembered that this fruit was available in the game actually :p So I decided to add one more easter egg to give people some bananas ;)
+[/quote]
